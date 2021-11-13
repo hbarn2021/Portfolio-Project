@@ -4,17 +4,17 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Slab', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .header-wrapper {
-    height: 190px;
-    margin-top: 15px;
+    height: 200px;
+    margin-top: 200px;
     color: blue;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 60px 100px;
+    padding: 60px 150px;
 }
 
 .left-column {
@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .header-styles {
     font-family: 'Ubuntu Condensed', sans-serif;
-    font-size: 1em; 
+    font-size: 2em; 
 }
 
 .center-column {
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo img {
 border-radius: 100px;
-    height: 275px;
+    height: 300px;
 }
 
 .link-wrapper {
@@ -69,7 +69,7 @@ border-radius: 100px;
 
 .right-column {
     display: flex;
-    align-items: center;
+    align-items: center
 }
 
 .icon {
@@ -105,10 +105,10 @@ border-radius: 100px;
 .bottom-heading {
     background-color: turquoise;
     color: black;
-    padding: 1px 20px;
-    margin-top: 15px;
-    width: 107px;
-    border-radius: 2px;
+    padding: 2px 30px;
+    margin-top: 50px;
+    width: 700px;
+    border-radius: 100px;
 }
 
 .features-section {
@@ -131,7 +131,7 @@ border-radius: 100px;
 }
 
 .column {
-    padding: 20px;
+    padding: 30px;
     margin: 42px;
     text-align: center;
     border-bottom: 5px solid transparent;
